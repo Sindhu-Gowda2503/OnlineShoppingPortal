@@ -1,0 +1,1 @@
+"This repository contains the source code for an Online shopping portal, a full-stack web application built as a part of DBMS project using PHP ,MySQL ,HTM L,CSS and JavaScript. The portal provides users with shopping cart functionality ,product management and an admin interface for managing inventory and orders.
